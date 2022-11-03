@@ -1,6 +1,6 @@
 # KoDoc2Dial
 
-한국어 대화 생성을 위한 문서 기반 대화 데이터셋 KoDoc2dial 입니다.
+한국어 대화 생성을 위한 문서 기반 대화 데이터셋 KoDoc2dial([[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113366)) 입니다.
 
 
 ## Data description
